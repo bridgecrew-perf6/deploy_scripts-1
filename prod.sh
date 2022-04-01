@@ -2,9 +2,8 @@
 
 apt update -y
 
-apt install vim -y
-vim --version
+apt install -y vim
 
-apt install strace -y
+apt install -y strace
 
-apt install ltrace -y
+apt install -y ltrace
