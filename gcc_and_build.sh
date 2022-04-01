@@ -1,5 +1,6 @@
 #!/bin/bash
 
 apt-get update -y
-sudo apt install build-essential -y
+apt install build-essential -y
+apt install gcc
 gcc --version
