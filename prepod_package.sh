@@ -2,5 +2,5 @@
 
 apt update -y
 apt install -y vim
-apt install -y strace
-apt install -y ltrace
+#apt install -y strace
+#apt install -y ltrace
