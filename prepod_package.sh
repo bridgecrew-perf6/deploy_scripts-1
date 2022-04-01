@@ -1,12 +1,10 @@
 #!/bin/bash
 
-apt-get update -y
+apt update -y
 
 apt install vim -y
 vim --version
 
-apt-get update -y
-at-get install strace -y
+apt install strace -y
 
-apt-get update
-apt-get install ltrace -y
+apt install ltrace -y
